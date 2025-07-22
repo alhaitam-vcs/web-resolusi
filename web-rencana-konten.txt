@@ -5,7 +5,9 @@ Rencana Konten web
   - JS Framework
     - Angular
     - React.js
+    - Angular
 - PHP Frameworks
   - Laravel
+  - CI
 - Interview
 - vlog
