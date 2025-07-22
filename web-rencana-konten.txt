@@ -3,8 +3,9 @@ Rencana Konten web
 - Javascript
   - ES6
   - JS Framework
-    - Angular
-    - React
+    - Vue.js
+    - React.js
+- Struktur Data Dasar
 - PHP Frameworks
   - Laravel
 - Interview
