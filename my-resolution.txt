@@ -1,0 +1,4 @@
+Halo, ini resolusi saya
+
+1. Saat ini saya mau menguasai git dan github
+2. Saya juga mau menguasai javascript framework
