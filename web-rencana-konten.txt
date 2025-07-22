@@ -3,7 +3,10 @@ Rencana Konten web
 - Javascript
   - ES6
   - JS Framework
+    - Vue.js
+    - React.js
 - Struktur Data Dasar
 - PHP Frameworks
+  - Laravel
 - Interview
 - vlog
